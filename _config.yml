@@ -5,7 +5,7 @@ url: "https://jimdeterman.github.io"
 baseurl: "/JimFest"
 
 # Use Minimal Mistakes
-remote_theme: "jackdeterman/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-include-cache
