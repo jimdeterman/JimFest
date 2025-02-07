@@ -1,0 +1,30 @@
+title: "JimFest 2025"
+description: "An opportunity for undergrads to learn to love Jim."
+
+url: "https://jimdeterman.github.io"
+baseurl: "/JimFest"
+
+# Use Minimal Mistakes
+remote_theme: "jackdeterman/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+
+header_pages:
+- index.md
+- submission.md
+- schedule.md
+- contact.md
+
+atom_feed:
+  hide: true
+
+footer:
+  links:
+    - label: "Instagram"
+      url: "https://www.instagram.com/jim_fest_fake"
+      icon: "fab fa-instagram"
+
+# Theme settings
+minimal_mistakes_skin: "air"
