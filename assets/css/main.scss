@@ -3,6 +3,21 @@
 @import "minimal-mistakes"; // Import the theme's default styles
 
 // Your custom styles go below this line
-body {
-    background-color: #FF0000;
+.masthead {
+    background-color: #1b134e;
+    color: #ffffff
 }
+
+body {
+    color: #1b134e;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #c3fd73;
+  margin: 1em 0;
+  padding: 0;
+}
+
